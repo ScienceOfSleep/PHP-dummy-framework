@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <h1>Contact</h1>
-  </body>
-</html>
+<?php require('partials/head.php'); ?>
+    <h1>contact us</h1>
+<?php require('partials/footer.php') ?>
